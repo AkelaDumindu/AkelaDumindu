@@ -5,8 +5,9 @@ I am currently pursuing a degree in Software Engineering at Sabaragamuwa Univers
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akeladumindu.thilakshana)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akela_dumindu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akela-dumindu-50830727a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://akela-dumindu.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/akela-dumindu-50830727a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C49A.svg?logo=SmartThings&logoColor=white)](https://akela-dumindu.netlify.app/)
+
 
 
 # 💻 Tech Stack:
